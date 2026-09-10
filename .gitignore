@@ -1,0 +1,18 @@
+﻿# Neovim cache
+*.log
+*.tmp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Lazy lock - manter para reprodutibilidade (comente se não quiser)
+# lazy-lock.json
+
+# Mason - não versionar binários instalados
+# mason/
+
+# swap/undo (se dentro do repo)
+swap/
+undo/
